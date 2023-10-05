@@ -1,4 +1,4 @@
-baseURL: "https://nirogu.github.io/personal-page"
+baseURL: "https://nirogu.github.io/"
 languageCode: "en-us"
 title: "Nicolas Rojas webpage"
 theme: hugo-profile
