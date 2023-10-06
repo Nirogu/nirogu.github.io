@@ -136,6 +136,8 @@ params:
           url: https://www.linkedin.com/in/nicolas-rojasg
         - icon: fab fa-gitlab
           url: https://gitlab.com/nirogu
+        - icon: fab fa-mastodon
+          url: https://social.vivaldi.net/@nirogu
 
   # About
   about:
