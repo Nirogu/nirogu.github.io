@@ -125,7 +125,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "https://www.linkedin.com/in/nicolas-rojasg/overlay/1635543289482/single-media-viewer/?profileId=ACoAADZ0SI8B-lRlqIa0yY4ihTB6K_1c5gaN5sc"
+      url: "https://github.com/Nirogu/nirogu.github.io/blob/master/nicolas-rojas-cv.pdf"
       download: false
       newPage: true
     socialLinks:
