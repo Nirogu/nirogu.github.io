@@ -125,9 +125,9 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "https://github.com/Nirogu/nirogu.github.io/blob/master/nicolas-rojas-cv.pdf"
-      download: false
-      newPage: true
+      url: "https://github.com/Nirogu/nirogu.github.io/blob/master/nicolas-rojas-cv.pdf?raw=true"
+      download: true
+      newPage: false
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
