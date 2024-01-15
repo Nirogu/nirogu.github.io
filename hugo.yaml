@@ -204,7 +204,7 @@ params:
         school:
           name: "Universidad Javeriana"
           url: "https://www.javeriana.edu.co/"
-        date: "2023 - In progress"
+        date: "2023 - 2024"
         GPA: "4.5 out of 5"
       - title: "Professional in Applied Mathematics and Computer Science"
         school:
