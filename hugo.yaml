@@ -188,14 +188,8 @@ params:
           content: "Worked as an independent python developer."
         content: "Developed software solutions for several machine learning companies or related projects. These computational solutions included unsupervised learning, semi-supervised learning, data analysis, application deployment and data scrapping, depending on the requirements of the contractor."
 
-      - job: "Teaching Assistant"
-        company: "Universidad del Rosario"
-        companyUrl: "https://urosario.edu.co/en"
-        date: "Jan 2019 - Jan 2021"
-        content: "Assisted several courses, such as Algorithms and Data Structures, Graph theory, Probability and Statistics. Responsibilities included in-class help for the professors, and additional classes for the students that required them."
-
       - job: "Research Assistant"
-        company: "U del Rosario"
+        company: "Universidad del Rosario"
         companyUrl: "https://urosario.edu.co/en"
         date: "Jan 2019 - Jan 2021"
         content: "Provided technical assistance to researchers in the Engineering school. This included implementing required software, mainly in python, and redacting experimentation results using LaTeX."
